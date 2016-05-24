@@ -1,0 +1,6 @@
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Services.dll
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Services.pdb
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

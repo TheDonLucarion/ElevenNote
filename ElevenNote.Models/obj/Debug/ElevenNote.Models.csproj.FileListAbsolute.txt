@@ -1,0 +1,5 @@
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Models.dll
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Models.pdb
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb

@@ -1,0 +1,10 @@
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Data.dll
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\bin\Debug\ElevenNote.Data.pdb
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.CatchupMigration.resources
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AlterNoteAddSummaryColumn.resources
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\mifiore\Documents\Projects\ElevenNoteBrokenChallenge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb

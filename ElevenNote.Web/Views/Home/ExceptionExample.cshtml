@@ -1,0 +1,34 @@
+﻿@functions {
+            void SomeFunction()
+            {
+                for (int i = 0; i < 1000; i++)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+        }
+@{ 
+        var sampleArray = new string[] {
+                "Lorem",
+                "Ipsum",
+                "Dolor",
+                "Sit",
+                "Amet" };
+    try
+    {
+        SomeFunction();
+        for (int i = 0; i < sampleArray.GetUpperBound(0); i++)
+        {
+            Console.WriteLine(sampleArray[i]);
+        }
+    }
+    catch (IndexOutOfRangeException ex)
+    {
+        <text>An out of bounds error occurred: @ex.Message</text>
+    }
+    catch (Exception ex)
+    {
+        <text>Another type of error occurred: @ex.Message</text>
+    }
+}
+<p>Code complete.</p>
